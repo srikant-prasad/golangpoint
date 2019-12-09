@@ -1,0 +1,74 @@
+{
+  "devFiles": [],
+  "pages": {
+    "/": [
+      "static/runtime/webpack-9369c5c69dbf6d4912cb.js",
+      "static/css/commons.de540cf9.chunk.css",
+      "static/chunks/commons.f637bb44107a7eafb399.js",
+      "static/runtime/main-5c0491994bdd5def7aea.js"
+    ],
+    "/Hello": [
+      "static/runtime/webpack-9369c5c69dbf6d4912cb.js",
+      "static/css/commons.de540cf9.chunk.css",
+      "static/chunks/commons.f637bb44107a7eafb399.js",
+      "static/runtime/main-5c0491994bdd5def7aea.js"
+    ],
+    "/Predev": [
+      "static/runtime/webpack-9369c5c69dbf6d4912cb.js",
+      "static/css/commons.de540cf9.chunk.css",
+      "static/chunks/commons.f637bb44107a7eafb399.js",
+      "static/runtime/main-5c0491994bdd5def7aea.js"
+    ],
+    "/_app": [
+      "static/runtime/webpack-9369c5c69dbf6d4912cb.js",
+      "static/css/commons.de540cf9.chunk.css",
+      "static/chunks/commons.f637bb44107a7eafb399.js",
+      "static/runtime/main-5c0491994bdd5def7aea.js"
+    ],
+    "/_error": [
+      "static/runtime/webpack-9369c5c69dbf6d4912cb.js",
+      "static/css/commons.de540cf9.chunk.css",
+      "static/chunks/commons.f637bb44107a7eafb399.js",
+      "static/runtime/main-5c0491994bdd5def7aea.js"
+    ],
+    "/_polyfills": [
+      "static/runtime/polyfills-ebd4705da3402b2d78e1.js"
+    ],
+    "/about": [
+      "static/runtime/webpack-9369c5c69dbf6d4912cb.js",
+      "static/css/commons.de540cf9.chunk.css",
+      "static/chunks/commons.f637bb44107a7eafb399.js",
+      "static/runtime/main-5c0491994bdd5def7aea.js"
+    ],
+    "/about_printout_function": [
+      "static/runtime/webpack-9369c5c69dbf6d4912cb.js",
+      "static/css/commons.de540cf9.chunk.css",
+      "static/chunks/commons.f637bb44107a7eafb399.js",
+      "static/runtime/main-5c0491994bdd5def7aea.js"
+    ],
+    "/demo": [
+      "static/runtime/webpack-9369c5c69dbf6d4912cb.js",
+      "static/css/commons.de540cf9.chunk.css",
+      "static/chunks/commons.f637bb44107a7eafb399.js",
+      "static/runtime/main-5c0491994bdd5def7aea.js"
+    ],
+    "/framework_for_golang": [
+      "static/runtime/webpack-9369c5c69dbf6d4912cb.js",
+      "static/css/commons.de540cf9.chunk.css",
+      "static/chunks/commons.f637bb44107a7eafb399.js",
+      "static/runtime/main-5c0491994bdd5def7aea.js"
+    ],
+    "/go_web_server": [
+      "static/runtime/webpack-9369c5c69dbf6d4912cb.js",
+      "static/css/commons.de540cf9.chunk.css",
+      "static/chunks/commons.f637bb44107a7eafb399.js",
+      "static/runtime/main-5c0491994bdd5def7aea.js"
+    ],
+    "/index": [
+      "static/runtime/webpack-9369c5c69dbf6d4912cb.js",
+      "static/css/commons.de540cf9.chunk.css",
+      "static/chunks/commons.f637bb44107a7eafb399.js",
+      "static/runtime/main-5c0491994bdd5def7aea.js"
+    ]
+  }
+}

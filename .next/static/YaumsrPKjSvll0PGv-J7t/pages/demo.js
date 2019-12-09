@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[20],{DVqO:function(n,e,t){(window.__NEXT_P=window.__NEXT_P||[]).push(["/demo",function(){return t("kMNh")}])},kMNh:function(n,e,t){"use strict";t.r(e);var o=t("q1tI"),i=t.n(o),u=t("5Yp1"),a=i.a.createElement;e.default=function(){return a(u.a,null,a("div",{className:"container"}))}}},[["DVqO",0,1]]]);

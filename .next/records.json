@@ -1,0 +1,72 @@
+{
+  "mini-css-extract-plugin node_modules/css-loader/index.js??ref--5-1!style/style.css": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "modules": {
+    "byIdentifier": {
+      "css node_modules/css-loader/index.js??ref--5-1!style/style.css 0": 0
+    },
+    "usedIds": {
+      "0": 0
+    }
+  },
+  "chunks": {
+    "byName": {
+      "static/runtime/webpack.js": 0,
+      "commons": 1,
+      "static/runtime/main.js": 2,
+      "static/runtime/polyfills.js": 3,
+      "static\\pzQH3WHMKjzH9eHlAf2yo\\pages\\Hello.js": 4,
+      "static\\pzQH3WHMKjzH9eHlAf2yo\\pages\\Predev.js": 5,
+      "static\\pzQH3WHMKjzH9eHlAf2yo\\pages\\_app.js": 6,
+      "static\\pzQH3WHMKjzH9eHlAf2yo\\pages\\_error.js": 7,
+      "static\\pzQH3WHMKjzH9eHlAf2yo\\pages\\about.js": 8,
+      "static\\pzQH3WHMKjzH9eHlAf2yo\\pages\\about_printout_function.js": 9,
+      "static\\pzQH3WHMKjzH9eHlAf2yo\\pages\\demo.js": 10,
+      "static\\pzQH3WHMKjzH9eHlAf2yo\\pages\\framework_for_golang.js": 11,
+      "static\\pzQH3WHMKjzH9eHlAf2yo\\pages\\go_web_server.js": 12,
+      "static\\pzQH3WHMKjzH9eHlAf2yo\\pages\\index.js": 13,
+      "static\\YaumsrPKjSvll0PGv-J7t\\pages\\Hello.js": 14,
+      "static\\YaumsrPKjSvll0PGv-J7t\\pages\\Predev.js": 15,
+      "static\\YaumsrPKjSvll0PGv-J7t\\pages\\_app.js": 16,
+      "static\\YaumsrPKjSvll0PGv-J7t\\pages\\_error.js": 17,
+      "static\\YaumsrPKjSvll0PGv-J7t\\pages\\about.js": 18,
+      "static\\YaumsrPKjSvll0PGv-J7t\\pages\\about_printout_function.js": 19,
+      "static\\YaumsrPKjSvll0PGv-J7t\\pages\\demo.js": 20,
+      "static\\YaumsrPKjSvll0PGv-J7t\\pages\\framework_for_golang.js": 21,
+      "static\\YaumsrPKjSvll0PGv-J7t\\pages\\go_web_server.js": 22,
+      "static\\YaumsrPKjSvll0PGv-J7t\\pages\\index.js": 23
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      2,
+      20,
+      21,
+      22,
+      23,
+      3
+    ]
+  }
+}
